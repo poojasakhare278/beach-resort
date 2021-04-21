@@ -1,8 +1,7 @@
 
 
-## Available Scripts
-
-In the project directory, you can run:
+#live web app:
+[check out](https://csb-bp71t.netlify.app/)
 
 ### `npm start`
 
